@@ -8,6 +8,8 @@ Reproducibility (i.e., the ability for researchers to replicate others’ work) 
 reproduce the paper you registered for.
 3. Receive special permission from the instructor to reproduce a different paper. If you choose a paper yourself, it should be published in well-known peer-reviewed machine learning venue (e.g., ICML, AAAI, NeurIPS, ACL, CVPR, or ICLR) and have been published no earlier than 2015.
 
+IMPORTANT: We have to choose a paper and track ASAP: https://docs.google.com/forms/d/e/1FAIpQLSc2gcqHGcGIrzPXOUoubb1c4B82h6FIwnSNkOvgvIuvlCe_0A/viewform
+
 
 ## Project 4 Spec
 https://cs.mcgill.ca/~wlh/comp551/files/miniproject4_spec.pdf
