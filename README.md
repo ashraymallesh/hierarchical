@@ -14,8 +14,9 @@ reproduce the paper you registered for.
 ## Project 4 Spec
 https://cs.mcgill.ca/~wlh/comp551/files/miniproject4_spec.pdf
 
-## TODO List
+## Todo List
 https://docs.google.com/document/d/1lh61TmfE22q4ap6CmGvAaJdskij7AcSqEvnOd1KSsyI/edit?usp=sharing
+or Projects --> MiniProject4 Todos (testing new github feature with cards)
 
 ## Report 
 https://docs.google.com/document/d/1KNXVbkvxkR2Yc7xrqjKz4STd0PWAyUbyXTvojWOqjLg/edit?usp=sharing
