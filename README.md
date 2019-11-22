@@ -3,7 +3,7 @@
 # Mini-Project 4: Reproducible Machine Learning
 
 Reproducibility (i.e., the ability for researchers to replicate others’ work) is a critical issue in machine learning, and there is a growing movement towards ensuring reproducible machine learning. In this mini-project, you will aim to reproduce the results of a published machine learning paper. There are two different tracks: the first track aims to reproduce and extend on results from papers that did not publish code, and the second track aims to use published code to reproduce and extend on an existing work. You must either:
-1. Choose a paper from the following curated list: [goo.gl/aVLcaY](goo.gl/aVLcaY)
+1. Choose a paper from the following curated list: https://docs.google.com/document/d/1SU2HWf6qOJXsQfaCmUJvS3KpaoFWxnXX6guI22-QSYQ/edit
 2. Already be registered to participate in the NeurIPS Reproducibility Challenge—in which case you will
 reproduce the paper you registered for.
 3. Receive special permission from the instructor to reproduce a different paper. If you choose a paper yourself, it should be published in well-known peer-reviewed machine learning venue (e.g., ICML, AAAI, NeurIPS, ACL, CVPR, or ICLR) and have been published no earlier than 2015.
