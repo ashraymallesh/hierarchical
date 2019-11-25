@@ -9,7 +9,7 @@ Choose a paper from the following curated list: https://docs.google.com/document
 ## Google Sheet looking at resources for each paper
 https://docs.google.com/spreadsheets/d/16eO8QShVDsUMlkNNsDAiAsKFEkYB4OtV8w6ExlGIKW8/edit?usp=sharing
 
-**IMPORTANT: We have to choose a paper and track ASAP: https://docs.google.com/forms/d/e/1FAIpQLSc2gcqHGcGIrzPXOUoubb1c4B82h6FIwnSNkOvgvIuvlCe_0A/viewform**
+IMPORTANT: We have to choose a paper and track ASAP: https://docs.google.com/forms/d/e/1FAIpQLSc2gcqHGcGIrzPXOUoubb1c4B82h6FIwnSNkOvgvIuvlCe_0A/viewform**
 
 
 ## Project 4 Spec
