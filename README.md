@@ -13,7 +13,8 @@ https://docs.google.com/document/d/1SU2HWf6qOJXsQfaCmUJvS3KpaoFWxnXX6guI22-QSYQ/
 ## Google Sheet looking at resources for each paper
 https://docs.google.com/spreadsheets/d/16eO8QShVDsUMlkNNsDAiAsKFEkYB4OtV8w6ExlGIKW8/edit?usp=sharing
 
-## IMPORTANT: We have to choose a paper and track ASAP: https://docs.google.com/forms/d/e/1FAIpQLSc2gcqHGcGIrzPXOUoubb1c4B82h6FIwnSNkOvgvIuvlCe_0A/viewform
+## IMPORTANT: We have to choose a paper and track ASAP
+https://docs.google.com/forms/d/e/1FAIpQLSc2gcqHGcGIrzPXOUoubb1c4B82h6FIwnSNkOvgvIuvlCe_0A/viewform
 
 ## Todo List
 https://docs.google.com/document/d/1lh61TmfE22q4ap6CmGvAaJdskij7AcSqEvnOd1KSsyI/edit?usp=sharing
