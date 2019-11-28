@@ -2,9 +2,7 @@
 
 # Mini-Project 4: Reproducible Machine Learning
 
-Reproducibility (i.e., the ability for researchers to replicate others’ work) is a critical issue in machine learning, and there is a growing movement towards ensuring reproducible machine learning. In this mini-project, you will aim to reproduce the results of a published machine learning paper. 
-
-The goal is to reproduce and extend on results from papers that did not publish code.
+Reproducibility (i.e., the ability for researchers to replicate others’ work) is a critical issue in machine learning, and there is a growing movement towards ensuring reproducible machine learning. In this mini-project, the goal is to reproduce and extend on results from papers that did not publish code.
 
 ## Project 4 Spec
 https://cs.mcgill.ca/~wlh/comp551/files/miniproject4_spec.pdf
