@@ -10,7 +10,7 @@ The goal is to reproduce and extend on results from papers that did not publish 
 https://cs.mcgill.ca/~wlh/comp551/files/miniproject4_spec.pdf
 
 ## Our paper:
-Hierarchical Attention Networks for Document Classification by Yang et al.
+Hierarchical Attention Networks for Document Classification by Yang et al., 2016.
 https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf
 
 
