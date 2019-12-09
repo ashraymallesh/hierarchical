@@ -26,4 +26,4 @@ https://www.overleaf.com/8874323433wcmjfvppghzv
 ## Authors:
 - Ashray Malleshachari, McGill University: [ashray.malleshachari@mail.mcgill.ca](mailto:ashray.malleshachari@mail.mcgill.ca)
 - Hamza Rizwan, McGill University: [hamza.rizwan@mail.mcgill.ca](mailto:hamza.rizwan@mail.mcgill.ca)
-- Shashank, McGill University: [shashank.murugesh@mail.mcgill.ca](mailto:shashank.murugesh@mail.mcgill.ca)
+- Shashank Murugesh, McGill University: [shashank.murugesh@mail.mcgill.ca](mailto:shashank.murugesh@mail.mcgill.ca)
