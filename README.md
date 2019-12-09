@@ -1,6 +1,7 @@
 
 
-# Mini-Project 4: Reproducible Machine Learning
+# Mini-Project 4: Analyzing Baselines for Hierarchical Attention Networks
+
 
 Reproducibility (i.e., the ability for researchers to replicate others’ work) is a critical issue in machine learning, and there is a growing movement towards ensuring reproducible machine learning. In this mini-project, the goal is to reproduce and extend on results from papers that did not publish code.
 
