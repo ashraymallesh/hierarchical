@@ -11,6 +11,9 @@ When researchers propose new models, they often spend more time on fine-tuning t
 ## Report 
 https://docs.google.com/document/d/1KNXVbkvxkR2Yc7xrqjKz4STd0PWAyUbyXTvojWOqjLg/edit?usp=sharing
 
+## Results
+https://docs.google.com/spreadsheets/d/1mtoh9ZSCtNzqQB3TAeOrTXO9jRjwDse6nEfPpv09uFg/edit?usp=sharing
+
 ## Overleaf link for final paper editing
 https://www.overleaf.com/8874323433wcmjfvppghzv
 
