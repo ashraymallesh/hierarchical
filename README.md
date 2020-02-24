@@ -3,7 +3,7 @@
 
 Reproducibility (i.e., the ability for researchers to replicate others’ work) is a critical issue in machine learning, and there is a growing movement towards ensuring reproducible machine learning. In this mini-project, the goal is to reproduce and extend on results from papers that did not publish code.
 
-### [Project Spec Here](miniproject4_spec.pdf)
+### [Project Spec](miniproject4_spec.pdf)
 
 ### Paper:
 Hierarchical Attention Networks for Document Classification by Yang et al., 2016.
@@ -15,4 +15,4 @@ When researchers propose new models, they often spend more time on fine-tuning t
 ### Results Table
 https://docs.google.com/spreadsheets/d/1mtoh9ZSCtNzqQB3TAeOrTXO9jRjwDse6nEfPpv09uFg/edit?usp=sharing
 
-## [Final Report in PDF](writeup(1).pdf)
+## [Final Report](writeup(1).pdf)
