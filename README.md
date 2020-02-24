@@ -24,9 +24,6 @@ https://cs.mcgill.ca/~wlh/comp551/files/miniproject4_spec.pdf
 Hierarchical Attention Networks for Document Classification by Yang et al., 2016.
 https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf
 
-## Todo List
-https://docs.google.com/document/d/1lh61TmfE22q4ap6CmGvAaJdskij7AcSqEvnOd1KSsyI/edit?usp=sharing
-
 ## Authors:
 - Ashray Malleshachari, McGill University: [ashray.malleshachari@mail.mcgill.ca](mailto:ashray.malleshachari@mail.mcgill.ca)
 - Hamza Rizwan, McGill University: [hamza.rizwan@mail.mcgill.ca](mailto:hamza.rizwan@mail.mcgill.ca)
