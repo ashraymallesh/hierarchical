@@ -15,4 +15,4 @@ When researchers propose new models, they often spend more time on fine-tuning t
 ### Results Table
 https://docs.google.com/spreadsheets/d/1mtoh9ZSCtNzqQB3TAeOrTXO9jRjwDse6nEfPpv09uFg/edit?usp=sharing
 
-## [Final Report](writeup(1).pdf)
+## [Final Report](https://github.com/ashraymallesh/hierarchical/raw/master/writeup(1).pdf)
